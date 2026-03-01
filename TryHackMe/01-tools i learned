@@ -1,1 +1,13 @@
-
+#hacking tools
+==dirbuster==
+C:\Users\Administrator> dirb http://fakebank.thm
+-----------------
+DIRB v2.22
+By The Dark Raver
+-----------------
+---- Scanning URL: http://fakebank.thm/ ----
++ http://fakebank.thm/bank-transfer (CODE:200|SIZE:4663)
++ http://fakebank.thm/images (CODE:301|SIZE:179)
+-----------------
+END_TIME: Sat, Feb 28, 2026, 21:21:07
+DOWNLOADED: 4610 - FOUND: 2
